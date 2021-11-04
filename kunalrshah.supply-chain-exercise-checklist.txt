@@ -1,0 +1,7 @@
+kunalrshah 
+
+Please answer the following questions:
+1. Have you completed the smart contract so all the tests pass locally? YES
+2. Have you used Git to commit those changes locally? YES
+3. Have you pushed your successful smart contract changes to Github.com? YES
+4. Are your tests also passing on Github.com? YES
